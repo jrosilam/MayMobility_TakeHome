@@ -1,0 +1,18 @@
+Hi Jesus,
+
+Thank you for taking time to connect regarding the Data Scientist role with May! As discussed, the next step in our process is the take home test which is attached here. Please return the test within 7 days of receipt.
+
+We expect this exercise to take approximately 3-4 hours. Please read the entire document before starting. Provided with the exercise are two datasets: site_ridership.csv and pickups.csv.
+
+May Mobility has multiple operational sites around the world. One of the operational metrics we are interested in is our ridership numbers. In this exercise, we provide some ridership data we collect manually at one of our sites. The site is a circulator route meaning that it operates like a bus service going around in a loop during service hours. Riders hop on and off the vehicle just like a bus service and that information is recorded manually by site staff using Google Forms.
+
+We appreciate you taking the time to complete the test and will be in touch regarding next steps as soon as we receive the test back and review.
+
+Please let us know if you have any questions at all!
+
+Best,
+
+Adam
+
+Please submit here:
+https://app2.greenhouse.io/tests/0d8a707017e67731da16a7bc958d210f?utm_medium=email&utm_source=TakeHomeTest
