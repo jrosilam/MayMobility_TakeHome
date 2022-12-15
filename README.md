@@ -1,6 +1,6 @@
 # May Mobility Take Home Test
 
-## 15 Dec 2022
+15 Dec 2022
 
 ## Jesus R. Rosila Mares
 
