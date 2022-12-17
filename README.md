@@ -1,12 +1,12 @@
 # May Mobility (Data Scientist)
-# README.md
+
+### README.md <!-- omit from toc -->
 
 Date: 15 Dec 2022
 
 ## Table of Contents
 
 - [May Mobility (Data Scientist)](#may-mobility-data-scientist)
-- [README.md](#readmemd)
   - [Table of Contents](#table-of-contents)
   - [Jesus R. Rosila Mares](#jesus-r-rosila-mares)
 - [Take Home Exercise (Data Scientist)](#take-home-exercise-data-scientist)
@@ -15,7 +15,6 @@ Date: 15 Dec 2022
     - [*Question 2*: Data Insights](#question-2-data-insights)
     - [*Question 3*: Modeling I](#question-3-modeling-i)
   - [Appendix](#appendix)
-
 
 ---
 
