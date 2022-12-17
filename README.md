@@ -1,6 +1,23 @@
+# May Mobility (Data Scientist)
 # README.md
 
 Date: 15 Dec 2022
+
+## Table of Contents
+
+- [May Mobility (Data Scientist)](#may-mobility-data-scientist)
+- [README.md](#readmemd)
+  - [Table of Contents](#table-of-contents)
+  - [Jesus R. Rosila Mares](#jesus-r-rosila-mares)
+- [Take Home Exercise (Data Scientist)](#take-home-exercise-data-scientist)
+  - [Questions](#questions)
+    - [*Question 1*: EDA](#question-1-eda)
+    - [*Question 2*: Data Insights](#question-2-data-insights)
+    - [*Question 3*: Modeling I](#question-3-modeling-i)
+  - [Appendix](#appendix)
+
+
+---
 
 ## Jesus R. Rosila Mares
 
@@ -14,21 +31,7 @@ Date: 15 Dec 2022
 
 - [CV](https://drive.google.com/file/d/1YDn7v4gwnVJQ-2RTDxf-ftHEQFYteEEJ/view?usp=sharing)
 
-## Table of Contents
 
----
-
-- [README.md](#readmemd)
-  - [Jesus R. Rosila Mares](#jesus-r-rosila-mares)
-  - [Table of Contents](#table-of-contents)
-- [Take Home Exercise (Data Scientist)](#take-home-exercise-data-scientist)
-  - [Questions](#questions)
-    - [*Question 1*: EDA](#question-1-eda)
-    - [*Question 2*: Data Insights](#question-2-data-insights)
-    - [*Question 3*: Modeling I](#question-3-modeling-i)
-  - [Appendix](#appendix)
-
----
 
 # Take Home Exercise (Data Scientist)
 
