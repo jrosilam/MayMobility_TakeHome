@@ -14,6 +14,7 @@ Date: 15 Dec 2022
     - [*Question 1*: EDA](#question-1-eda)
     - [*Question 2*: Data Insights](#question-2-data-insights)
     - [*Question 3*: Modeling I](#question-3-modeling-i)
+    - [*Question 4*: Modeling II](#question-4-modeling-ii)
   - [Appendix](#appendix)
 
 ---
@@ -98,6 +99,25 @@ Nov 21,<your prediction>
 ```
 
 We will use *`riders.csv`* on a private test dataset to see how well your model does.
+
+### *Question 4*: Modeling II
+
+Suppose for some unknown reason, during the month of November, the site team only entered pickup
+data. We would like to fill out this dataset by predicting where the associated dropoff locations are.
+Predict the dropoff stop based on the input file *`pickups.csv`*. In the commentary, tell us how well you
+think your model will do.    
+
+Submit a comma delimited file called *`dropoff.csv`* with the following 2 columns:
+
+```terminal
+row_id,dropoff_stop
+1,<your prediction>
+2,<your prediction>
+…
+363,<your prediction>
+```
+
+We will use *`dropoff.csv`* on a private test dataset to see how well your model does.
 
 ---
 
