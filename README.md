@@ -30,8 +30,6 @@ Date: 15 Dec 2022
 
 - [CV](https://drive.google.com/file/d/1YDn7v4gwnVJQ-2RTDxf-ftHEQFYteEEJ/view?usp=sharing)
 
-
-
 # Take Home Exercise (Data Scientist)
 
 We expect this exercise to take approximately 3-4 hours. Please read the entire document before
