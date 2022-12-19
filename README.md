@@ -125,14 +125,14 @@ We will use *`dropoff.csv`* on a private test dataset to see how well your model
 
 The table contains descriptions of the 9 route stops for some context.
 
-| Stop       | Description                      | Longitude | Latitude |
-|:-----------|:--------------------------------:|-----------|----------|
-| Bus        | Bus stop on a major transit line | -86.16168 | 39.77285 |
-| Dentist    | School of Dentistry              | -86.17895 | 39.77467 |
-| Doctor     | Pediatrician’s office            | -86.17496 | 39.77926 |
-| Admin      | Administrative building          | -86.17433 | 39.77459 |
-| Hospital   | Campus hospital                  | -86.17557 | 39.77567 |
-| Lime       | Bus stop on campus               | -86.18376 | 39.77473 |
-| Parking    | Campus parking lot               | -86.18121 | 39.77882 |
-| School     | School of Art and Design         | -86.17148 | 39.77148 |
-| University | University lecture hall          | -86.17575 | 39.77271 |
+| Stop       | Description                      | Latitude | Longitude |
+|:-----------|:--------------------------------:|----------|-----------|
+| Bus        | Bus stop on a major transit line | 39.77285 | -86.16168 |
+| Dentist    | School of Dentistry              | 39.77467 | -86.17895 |
+| Doctor     | Pediatrician’s office            | 39.77926 | -86.17496 |
+| Admin      | Administrative building          | 39.77459 | -86.17433 |
+| Hospital   | Campus hospital                  | 39.77567 | -86.17557 |
+| Lime       | Bus stop on campus               | 39.77473 | -86.18376 |
+| Parking    | Campus parking lot               | 39.77882 | -86.18121 |
+| School     | School of Art and Design         | 39.77148 | -86.17148 |
+| University | University lecture hall          | 39.77271 | -86.17575 |
