@@ -203,6 +203,19 @@ More info and pretty plots in the Notebook under "Machine Learning II"
 
 My approach for the Machine Learing algorithm is missing a counter to figure out average amount of stops before a dropoff is triggered. Which make an issue in the predictor being stuck in a singularity. There is a Pareto chart showing the percentage where dropoffs are triggered. As well as a confusion matrix chart that would be better if the machine learning was corrected. Need to review. Accuracies, test/train splits, and plots found in the notebook.
 
+Grouped by Predicted Dropoff Count
+| dropoff_stop | freq |
+| :----------- | ---: |
+| Bus          |   97 |
+| Lime         |   95 |
+| Doctor       |   44 |
+| University   |   38 |
+| Admin        |   35 |
+| Hospital     |   20 |
+| Dentist      |   19 |
+| School       |   14 |
+| Parking      |    1 |
+
 ---
 
 ## Appendix
